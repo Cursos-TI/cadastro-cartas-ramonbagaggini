@@ -6,7 +6,8 @@
 
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
-
+printf("Ola mundo, no codespce\n");
+printf("Exemplo de edição de codigo!\n");
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
